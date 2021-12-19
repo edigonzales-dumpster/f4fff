@@ -46,3 +46,5 @@ psql -h localhost -p 54322 -d pub -U postgres -W -f fff_partial.sql
 psql -h localhost -p 54322 -d pub -U postgres -W -f fff_full.sql
 ```
 
+todo:
+- Schlussresultat muss wohl wieder auf mm gerundet werden und aus multi single
